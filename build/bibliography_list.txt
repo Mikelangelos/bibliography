@@ -1,0 +1,18 @@
+{
+	ID :0,
+	ISBN :471530121,
+	Name :Practical Algebra: A Self-Teaching Guide,
+	Author :Stephen L. Slavin | Peter H. Selby,
+	Desc :It's a very very good book to give you an introduction about Algebra and prepare you for Calculus.,
+	Pages :
+	( 0 - 140 )
+}
+{
+	ID :1,
+	ISBN :201703535,
+	Name :Accelerated C++: Practical Programming by Example,
+	Author :Andrew Koenig | Barbara E. Moo,
+	Desc :A smooth-looking C++ book. ,
+	Pages :
+	( 0 - 40 )
+}
